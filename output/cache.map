@@ -1,0 +1,1414 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              ./sdram_debug/fsl_clock.o (__aeabi_uldivmod)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-malloc.o)
+                              ./sdram_debug/fsl_common.o (malloc)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-malloc.o) (_malloc_r)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memcmp.o)
+                              ./sdram_debug/cache.o (memcmp)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o) (__malloc_lock)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o) (_sbrk_r)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-strlen.o)
+                              ./sdram_debug/fsl_str.o (strlen)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-malloc.o) (_free_r)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o) (errno)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o) (_sbrk)
+c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+errno               0x4               c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+g_xtalFreq          0x4               ./sdram_debug/fsl_clock.o
+__lock___env_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+boot_data           0x10              ./sdram_debug/fsl_flexspi_nor_boot.o
+g_DMA_Handle        0x18              ./sdram_debug/cache.o
+g_rtcXtalFreq       0x4               ./sdram_debug/fsl_clock.o
+__lock___at_quick_exit_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+g_serialHandle      0x4               ./sdram_debug/fsl_debug_console.o
+__lock___sfp_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00000000         0x00000400         xr
+m_text           0x20200000         0x00010000         xr
+m_data           0x20210000         0x00010000         rw
+m_ncache         0x20220000         0x00010000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD ./sdram_debug/cache.o
+LOAD ./sdram_debug/startup_mimxrt1052.o
+LOAD ./sdram_debug/board.o
+LOAD ./sdram_debug/clock_config.o
+LOAD ./sdram_debug/peripherals.o
+LOAD ./sdram_debug/pin_mux.o
+LOAD ./sdram_debug/evkbimxrt1050_flexspi_nor_config.o
+LOAD ./sdram_debug/evkbimxrt1050_sdram_ini_dcd.o
+LOAD ./sdram_debug/generic_list.o
+LOAD ./sdram_debug/serial_manager.o
+LOAD ./sdram_debug/serial_port_uart.o
+LOAD ./sdram_debug/lpuart_adapter.o
+LOAD ./sdram_debug/fsl_cache.o
+LOAD ./sdram_debug/fsl_clock.o
+LOAD ./sdram_debug/fsl_common.o
+LOAD ./sdram_debug/fsl_dmamux.o
+LOAD ./sdram_debug/fsl_edma.o
+LOAD ./sdram_debug/fsl_gpio.o
+LOAD ./sdram_debug/fsl_lpuart.o
+LOAD ./sdram_debug/fsl_semc.o
+LOAD ./sdram_debug/fsl_debug_console.o
+LOAD ./sdram_debug/fsl_assert.o
+LOAD ./sdram_debug/fsl_str.o
+LOAD ./sdram_debug/fsl_flexspi_nor_boot.o
+LOAD ./sdram_debug/system_mimxrt1052.o
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x00000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x00000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+
+.interrupts     0x00000000      0x400
+                0x00000000                __VECTOR_TABLE = .
+                0x00000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x400 ./sdram_debug/startup_mimxrt1052.o
+                0x00000000                __isr_vector
+                0x00000400                . = ALIGN (0x4)
+                0x00000000                __VECTOR_RAM = __VECTOR_TABLE
+                0x00000000                __RAM_VECTOR_TABLE_SIZE_BYTES = 0x0
+
+.text           0x20200000     0xd184
+                0x20200000                . = ALIGN (0x4)
+ *(.text)
+ .text          0x20200000        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crti.o
+ .text          0x20200000       0x40 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x20200040       0x74 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+                0x20200040                _start
+                0x20200040                _mainCRTStartup
+ .text          0x202000b4      0x9e0 ./sdram_debug/cache.o
+                0x202003c4                APP_CacheConfig
+                0x202003e6                APP_ConfigMPU
+                0x202005b8                APP_MemoryInit
+                0x202005cc                EDMA_Callback
+                0x202005f8                APP_DMAInit
+                0x2020065c                APP_DMAMem2memTransfer
+                0x202006a8                main
+ .text          0x20200a94      0x1ec ./sdram_debug/startup_mimxrt1052.o
+                0x20200a94                Reset_Handler
+                0x20200adc                PWM1_3_IRQHandler
+                0x20200adc                LPSPI2_DriverIRQHandler
+                0x20200adc                SJC_IRQHandler
+                0x20200adc                ADC_ETC_IRQ0_IRQHandler
+                0x20200adc                DebugMon_Handler
+                0x20200adc                SAI3_RX_DriverIRQHandler
+                0x20200adc                PXP_IRQHandler
+                0x20200adc                CTI1_ERROR_IRQHandler
+                0x20200adc                Reserved86_IRQHandler
+                0x20200adc                SRC_IRQHandler
+                0x20200adc                LPSPI4_DriverIRQHandler
+                0x20200adc                PWM3_FAULT_IRQHandler
+                0x20200adc                GPIO2_Combined_0_15_IRQHandler
+                0x20200adc                SPDIF_DriverIRQHandler
+                0x20200adc                GPIO1_INT2_IRQHandler
+                0x20200adc                CSI_IRQHandler
+                0x20200adc                LCDIF_IRQHandler
+                0x20200adc                SNVS_LP_WRAPPER_IRQHandler
+                0x20200adc                ENC2_IRQHandler
+                0x20200adc                PWM2_2_IRQHandler
+                0x20200adc                TRNG_IRQHandler
+                0x20200adc                TMR1_IRQHandler
+                0x20200adc                PWM4_FAULT_IRQHandler
+                0x20200adc                CAN1_DriverIRQHandler
+                0x20200adc                GPIO1_INT7_IRQHandler
+                0x20200adc                CCM_1_IRQHandler
+                0x20200adc                PWM4_0_IRQHandler
+                0x20200adc                ADC_ETC_IRQ1_IRQHandler
+                0x20200adc                DMA_ERROR_DriverIRQHandler
+                0x20200adc                LPI2C2_DriverIRQHandler
+                0x20200adc                ENC4_IRQHandler
+                0x20200adc                LPSPI3_DriverIRQHandler
+                0x20200adc                CTI0_ERROR_IRQHandler
+                0x20200adc                GPIO5_Combined_0_15_IRQHandler
+                0x20200adc                PWM1_0_IRQHandler
+                0x20200adc                Reserved68_IRQHandler
+                0x20200adc                LPI2C3_DriverIRQHandler
+                0x20200adc                GPIO4_Combined_16_31_IRQHandler
+                0x20200adc                USB_PHY2_IRQHandler
+                0x20200adc                Reserved87_IRQHandler
+                0x20200adc                TSC_DIG_IRQHandler
+                0x20200adc                BusFault_Handler
+                0x20200adc                GPIO4_Combined_0_15_IRQHandler
+                0x20200adc                ACMP1_IRQHandler
+                0x20200adc                FLEXRAM_IRQHandler
+                0x20200adc                PWM2_0_IRQHandler
+                0x20200adc                DCP_VMI_IRQHandler
+                0x20200adc                GPT2_IRQHandler
+                0x20200adc                ENET_1588_Timer_DriverIRQHandler
+                0x20200adc                ACMP2_IRQHandler
+                0x20200adc                PWM2_1_IRQHandler
+                0x20200adc                SAI3_TX_DriverIRQHandler
+                0x20200adc                PWM2_FAULT_IRQHandler
+                0x20200adc                FLEXIO2_DriverIRQHandler
+                0x20200adc                UsageFault_Handler
+                0x20200adc                WDOG1_IRQHandler
+                0x20200adc                SNVS_HP_WRAPPER_TZ_IRQHandler
+                0x20200adc                PMU_EVENT_IRQHandler
+                0x20200adc                GPT1_IRQHandler
+                0x20200adc                XBAR1_IRQ_0_1_IRQHandler
+                0x20200adc                PWM4_1_IRQHandler
+                0x20200adc                USB_OTG2_IRQHandler
+                0x20200adc                ACMP4_IRQHandler
+                0x20200adc                SEMC_IRQHandler
+                0x20200adc                DefaultISR
+                0x20200adc                PWM1_1_IRQHandler
+                0x20200adc                TMR3_IRQHandler
+                0x20200adc                PWM3_0_IRQHandler
+                0x20200adc                USDHC1_DriverIRQHandler
+                0x20200adc                PWM3_3_IRQHandler
+                0x20200adc                GPIO1_INT0_IRQHandler
+                0x20200adc                LPI2C4_DriverIRQHandler
+                0x20200adc                CSU_IRQHandler
+                0x20200adc                GPIO2_Combined_16_31_IRQHandler
+                0x20200adc                ADC1_IRQHandler
+                0x20200adc                FLEXIO1_DriverIRQHandler
+                0x20200adc                ENET_DriverIRQHandler
+                0x20200adc                GPIO1_Combined_16_31_IRQHandler
+                0x20200adc                Reserved143_IRQHandler
+                0x20200adc                RTWDOG_IRQHandler
+                0x20200adc                USB_PHY1_IRQHandler
+                0x20200adc                Reserved78_IRQHandler
+                0x20200adc                SAI1_DriverIRQHandler
+                0x20200adc                ENC3_IRQHandler
+                0x20200adc                GPIO3_Combined_16_31_IRQHandler
+                0x20200adc                EWM_IRQHandler
+                0x20200adc                TEMP_LOW_HIGH_IRQHandler
+                0x20200adc                WDOG2_IRQHandler
+                0x20200adc                GPIO1_INT5_IRQHandler
+                0x20200adc                FLEXSPI_DriverIRQHandler
+                0x20200adc                PWM1_FAULT_IRQHandler
+                0x20200adc                PWM3_1_IRQHandler
+                0x20200adc                PWM2_3_IRQHandler
+                0x20200adc                ENC1_IRQHandler
+                0x20200adc                CORE_IRQHandler
+                0x20200adc                ACMP3_IRQHandler
+                0x20200adc                TMR4_IRQHandler
+                0x20200adc                TEMP_PANIC_IRQHandler
+                0x20200adc                GPIO1_INT6_IRQHandler
+                0x20200adc                PWM1_2_IRQHandler
+                0x20200adc                Reserved144_IRQHandler
+                0x20200adc                GPR_IRQ_IRQHandler
+                0x20200adc                GPC_IRQHandler
+                0x20200adc                DCDC_IRQHandler
+                0x20200adc                GPIO3_Combined_0_15_IRQHandler
+                0x20200adc                PWM4_3_IRQHandler
+                0x20200adc                LPSPI1_DriverIRQHandler
+                0x20200adc                USB_OTG1_IRQHandler
+                0x20200adc                CAN2_DriverIRQHandler
+                0x20200adc                GPIO1_Combined_0_15_IRQHandler
+                0x20200adc                GPIO5_Combined_16_31_IRQHandler
+                0x20200adc                TMR2_IRQHandler
+                0x20200adc                ADC_ETC_ERROR_IRQ_IRQHandler
+                0x20200adc                PWM4_2_IRQHandler
+                0x20200adc                BEE_IRQHandler
+                0x20200adc                GPIO1_INT1_IRQHandler
+                0x20200adc                GPIO1_INT3_IRQHandler
+                0x20200adc                ADC_ETC_IRQ2_IRQHandler
+                0x20200adc                GPIO1_INT4_IRQHandler
+                0x20200adc                CCM_2_IRQHandler
+                0x20200adc                KPP_IRQHandler
+                0x20200adc                Reserved123_IRQHandler
+                0x20200adc                ADC2_IRQHandler
+                0x20200adc                USDHC2_DriverIRQHandler
+                0x20200adc                MemManage_Handler
+                0x20200adc                SAI2_DriverIRQHandler
+                0x20200adc                DCP_IRQHandler
+                0x20200adc                PIT_IRQHandler
+                0x20200adc                Reserved115_IRQHandler
+                0x20200adc                SNVS_HP_WRAPPER_IRQHandler
+                0x20200adc                LPI2C1_DriverIRQHandler
+                0x20200adc                PWM3_2_IRQHandler
+                0x20200adc                XBAR1_IRQ_2_3_IRQHandler
+                0x20200ae0                NMI_Handler
+                0x20200ae4                HardFault_Handler
+                0x20200ae8                SVC_Handler
+                0x20200aec                PendSV_Handler
+                0x20200af0                SysTick_Handler
+                0x20200af4                DMA0_DMA16_IRQHandler
+                0x20200af8                DMA1_DMA17_IRQHandler
+                0x20200afc                DMA2_DMA18_IRQHandler
+                0x20200b00                DMA3_DMA19_IRQHandler
+                0x20200b04                DMA4_DMA20_IRQHandler
+                0x20200b08                DMA5_DMA21_IRQHandler
+                0x20200b0c                DMA6_DMA22_IRQHandler
+                0x20200b10                DMA7_DMA23_IRQHandler
+                0x20200b14                DMA8_DMA24_IRQHandler
+                0x20200b18                DMA9_DMA25_IRQHandler
+                0x20200b1c                DMA10_DMA26_IRQHandler
+                0x20200b20                DMA11_DMA27_IRQHandler
+                0x20200b24                DMA12_DMA28_IRQHandler
+                0x20200b28                DMA13_DMA29_IRQHandler
+                0x20200b2c                DMA14_DMA30_IRQHandler
+                0x20200b30                DMA15_DMA31_IRQHandler
+                0x20200b34                DMA_ERROR_IRQHandler
+                0x20200b38                LPUART1_IRQHandler
+                0x20200b3c                LPUART2_IRQHandler
+                0x20200b40                LPUART3_IRQHandler
+                0x20200b44                LPUART4_IRQHandler
+                0x20200b48                LPUART5_IRQHandler
+                0x20200b4c                LPUART6_IRQHandler
+                0x20200b50                LPUART7_IRQHandler
+                0x20200b54                LPUART8_IRQHandler
+                0x20200b58                LPI2C1_IRQHandler
+                0x20200b5c                LPI2C2_IRQHandler
+                0x20200b60                LPI2C3_IRQHandler
+                0x20200b64                LPI2C4_IRQHandler
+                0x20200b68                LPSPI1_IRQHandler
+                0x20200b6c                LPSPI2_IRQHandler
+                0x20200b70                LPSPI3_IRQHandler
+                0x20200b74                LPSPI4_IRQHandler
+                0x20200b78                CAN1_IRQHandler
+                0x20200b7c                CAN2_IRQHandler
+                0x20200b80                SAI1_IRQHandler
+                0x20200b84                SAI2_IRQHandler
+                0x20200b88                SAI3_RX_IRQHandler
+                0x20200b8c                SAI3_TX_IRQHandler
+                0x20200b90                SPDIF_IRQHandler
+                0x20200b94                FLEXIO1_IRQHandler
+                0x20200b98                FLEXIO2_IRQHandler
+                0x20200b9c                FLEXSPI_IRQHandler
+                0x20200ba0                USDHC1_IRQHandler
+                0x20200ba4                USDHC2_IRQHandler
+                0x20200ba8                ENET_IRQHandler
+                0x20200bac                ENET_1588_Timer_IRQHandler
+ .text          0x20200c80      0x730 ./sdram_debug/board.o
+                0x20200dce                BOARD_DebugConsoleSrcFreq
+                0x20200e34                BOARD_InitDebugConsole
+                0x20200e56                BOARD_SD_Pin_Config
+                0x20200f80                BOARD_MMC_Pin_Config
+                0x2020118c                BOARD_ConfigMPU
+ .text          0x202013b0      0x99c ./sdram_debug/clock_config.o
+                0x20201720                BOARD_InitBootClocks
+                0x2020172c                BOARD_BootClockRUN
+ .text          0x20201d4c        0xc ./sdram_debug/peripherals.o
+                0x20201d4c                BOARD_InitBootPeripherals
+ .text          0x20201d58      0x178 ./sdram_debug/pin_mux.o
+                0x20201e4a                BOARD_InitBootPins
+                0x20201e56                BOARD_InitPins
+ .text          0x20201ed0        0x0 ./sdram_debug/evkbimxrt1050_flexspi_nor_config.o
+ .text          0x20201ed0        0x0 ./sdram_debug/evkbimxrt1050_sdram_ini_dcd.o
+ .text          0x20201ed0      0x42a ./sdram_debug/generic_list.o
+                0x20201f48                LIST_Init
+                0x20201f78                LIST_GetList
+                0x20201f90                LIST_AddTail
+                0x2020202e                LIST_AddHead
+                0x202020cc                LIST_RemoveHead
+                0x2020213a                LIST_GetHead
+                0x20202152                LIST_GetNext
+                0x2020216a                LIST_GetPrev
+                0x20202182                LIST_RemoveElement
+                0x20202208                LIST_AddPrevElement
+                0x202022c2                LIST_GetSize
+                0x202022da                LIST_GetAvailableSize
+ *fill*         0x202022fa        0x2 
+ .text          0x202022fc      0x508 ./sdram_debug/serial_manager.o
+                0x202024b8                SerialManager_Init
+                0x20202544                SerialManager_Deinit
+                0x202025a8                SerialManager_OpenWriteHandle
+                0x20202618                SerialManager_CloseWriteHandle
+                0x20202680                SerialManager_OpenReadHandle
+                0x202026f8                SerialManager_CloseReadHandle
+                0x2020275c                SerialManager_WriteBlocking
+                0x2020277c                SerialManager_ReadBlocking
+                0x2020279c                SerialManager_EnterLowpower
+                0x202027d0                SerialManager_ExitLowpower
+ .text          0x20202804      0x1c0 ./sdram_debug/serial_port_uart.o
+                0x20202804                Serial_UartInit
+                0x20202898                Serial_UartDeinit
+                0x202028d4                Serial_UartWrite
+                0x2020294c                Serial_UartRead
+ .text          0x202029c4      0x29c ./sdram_debug/lpuart_adapter.o
+                0x202029e6                HAL_UartInit
+                0x20202b04                HAL_UartDeinit
+                0x20202b50                HAL_UartReceiveBlocking
+                0x20202bdc                HAL_UartSendBlocking
+ .text          0x20202c60      0x224 ./sdram_debug/fsl_cache.o
+                0x20202dbc                L1CACHE_InvalidateICacheByRange
+                0x20202e1c                ICACHE_InvalidateByRange
+                0x20202e36                DCACHE_InvalidateByRange
+                0x20202e50                DCACHE_CleanByRange
+                0x20202e6a                DCACHE_CleanInvalidateByRange
+ .text          0x20202e84     0x137c ./sdram_debug/fsl_clock.o
+                0x20203048                CLOCK_InitExternalClk
+                0x202030c0                CLOCK_DeinitExternalClk
+                0x202030dc                CLOCK_SwitchOsc
+                0x20203110                CLOCK_InitRcOsc24M
+                0x20203134                CLOCK_DeinitRcOsc24M
+                0x20203158                CLOCK_GetAhbFreq
+                0x2020317c                CLOCK_GetSemcFreq
+                0x202031d8                CLOCK_GetIpgFreq
+                0x202031fc                CLOCK_GetPerClkFreq
+                0x20203240                CLOCK_GetFreq
+                0x202033b0                CLOCK_EnableUsbhs0Clock
+                0x2020342c                CLOCK_EnableUsbhs1Clock
+                0x202034a8                CLOCK_EnableUsbhs0PhyPllClock
+                0x20203518                CLOCK_DisableUsbhs0PhyPllClock
+                0x20203548                CLOCK_InitArmPll
+                0x202035b0                CLOCK_DeinitArmPll
+                0x202035cc                CLOCK_InitSysPll
+                0x20203668                CLOCK_DeinitSysPll
+                0x20203684                CLOCK_InitUsb1Pll
+                0x202036ec                CLOCK_DeinitUsb1Pll
+                0x20203704                CLOCK_InitUsb2Pll
+                0x2020376c                CLOCK_DeinitUsb2Pll
+                0x20203784                CLOCK_InitAudioPll
+                0x202038b0                CLOCK_DeinitAudioPll
+                0x202038cc                CLOCK_InitVideoPll
+                0x20203a00                CLOCK_DeinitVideoPll
+                0x20203a1c                CLOCK_InitEnetPll
+                0x20203ab0                CLOCK_DeinitEnetPll
+                0x20203acc                CLOCK_GetPllFreq
+                0x20203dd0                CLOCK_InitSysPfd
+                0x20203e34                CLOCK_DeinitSysPfd
+                0x20203e68                CLOCK_InitUsb1Pfd
+                0x20203ecc                CLOCK_DeinitUsb1Pfd
+                0x20203f00                CLOCK_GetSysPfdFreq
+                0x20203fac                CLOCK_GetUsb1PfdFreq
+                0x20204058                CLOCK_EnableUsbhs1PhyPllClock
+                0x202040ac                CLOCK_DisableUsbhs1PhyPllClock
+                0x202040dc                SDK_DelayAtLeastUs
+ .text          0x20204200       0x9e ./sdram_debug/fsl_common.o
+                0x20204200                SDK_Malloc
+                0x2020426c                SDK_Free
+ *fill*         0x2020429e        0x2 
+ .text          0x202042a0      0x144 ./sdram_debug/fsl_dmamux.o
+                0x202043a4                DMAMUX_Init
+                0x202043c4                DMAMUX_Deinit
+ .text          0x202043e4     0x1e58 ./sdram_debug/fsl_edma.o
+                0x2020458c                EDMA_InstallTCD
+                0x202046ec                EDMA_Init
+                0x20204790                EDMA_Deinit
+                0x202047b0                EDMA_GetDefaultConfig
+                0x20204800                EDMA_ResetChannel
+                0x20204840                EDMA_SetTransferConfig
+                0x202048b8                EDMA_SetMinorOffsetConfig
+                0x20204954                EDMA_SetChannelPreemptionConfig
+                0x202049f4                EDMA_SetChannelLink
+                0x20204a58                EDMA_SetBandWidth
+                0x20204ac4                EDMA_SetModulo
+                0x20204b48                EDMA_EnableChannelInterrupts
+                0x20204c00                EDMA_DisableChannelInterrupts
+                0x20204cbc                EDMA_TcdReset
+                0x20204d4c                EDMA_TcdSetTransferConfig
+                0x20204e5c                EDMA_TcdSetMinorOffsetConfig
+                0x20204ee4                EDMA_TcdSetChannelLink
+                0x20205034                EDMA_TcdSetModulo
+                0x202050b8                EDMA_TcdEnableInterrupts
+                0x20205120                EDMA_TcdDisableInterrupts
+                0x20205188                EDMA_GetRemainingMajorLoopCount
+                0x2020522c                EDMA_GetChannelStatusFlags
+                0x202052b0                EDMA_ClearChannelStatusFlags
+                0x20205340                EDMA_CreateHandle
+                0x2020543c                EDMA_InstallTCDMemory
+                0x202054b4                EDMA_SetCallback
+                0x202054f4                EDMA_PrepareTransfer
+                0x202057f4                EDMA_SubmitTransfer
+                0x20205ad4                EDMA_StartTransfer
+                0x20205b94                EDMA_StopTransfer
+                0x20205be4                EDMA_AbortTransfer
+                0x20205c4e                EDMA_HandleIRQ
+                0x20205dbc                DMA0_DMA16_DriverIRQHandler
+                0x20205e04                DMA1_DMA17_DriverIRQHandler
+                0x20205e4c                DMA2_DMA18_DriverIRQHandler
+                0x20205e94                DMA3_DMA19_DriverIRQHandler
+                0x20205edc                DMA4_DMA20_DriverIRQHandler
+                0x20205f24                DMA5_DMA21_DriverIRQHandler
+                0x20205f6c                DMA6_DMA22_DriverIRQHandler
+                0x20205fb4                DMA7_DMA23_DriverIRQHandler
+                0x20205ffc                DMA8_DMA24_DriverIRQHandler
+                0x20206044                DMA9_DMA25_DriverIRQHandler
+                0x2020608c                DMA10_DMA26_DriverIRQHandler
+                0x202060d4                DMA11_DMA27_DriverIRQHandler
+                0x2020611c                DMA12_DMA28_DriverIRQHandler
+                0x20206164                DMA13_DMA29_DriverIRQHandler
+                0x202061ac                DMA14_DMA30_DriverIRQHandler
+                0x202061f4                DMA15_DMA31_DriverIRQHandler
+ .text          0x2020623c      0x310 ./sdram_debug/fsl_gpio.o
+                0x20206348                GPIO_PinInit
+                0x202063ec                GPIO_PinWrite
+                0x20206450                GPIO_PinSetInterruptConfig
+ .text          0x2020654c     0x16b8 ./sdram_debug/fsl_lpuart.o
+                0x20206690                LPUART_GetInstance
+                0x202066e8                LPUART_TransferGetRxRingBufferLength
+                0x20206894                LPUART_Init
+                0x20206bb4                LPUART_Deinit
+                0x20206c24                LPUART_GetDefaultConfig
+                0x20206cbc                LPUART_SetBaudRate
+                0x20206e14                LPUART_EnableInterrupts
+                0x20206e66                LPUART_DisableInterrupts
+                0x20206ebe                LPUART_GetEnabledInterrupts
+                0x20206f04                LPUART_GetStatusFlags
+                0x20206f30                LPUART_ClearStatusFlags
+                0x20206fd4                LPUART_WriteBlocking
+                0x2020703c                LPUART_ReadBlocking
+                0x20207194                LPUART_TransferCreateHandle
+                0x20207264                LPUART_TransferStartRingBuffer
+                0x202072d4                LPUART_TransferStopRingBuffer
+                0x20207334                LPUART_TransferSendNonBlocking
+                0x202073f8                LPUART_TransferAbortSend
+                0x20207444                LPUART_TransferGetSendCount
+                0x202074b0                LPUART_TransferReceiveNonBlocking
+                0x20207670                LPUART_TransferAbortReceive
+                0x202076c4                LPUART_TransferGetReceiveCount
+                0x20207730                LPUART_TransferHandleIRQ
+                0x20207ace                LPUART_TransferHandleErrorIRQ
+                0x20207ae4                LPUART1_DriverIRQHandler
+                0x20207b08                LPUART2_DriverIRQHandler
+                0x20207b2c                LPUART3_DriverIRQHandler
+                0x20207b50                LPUART4_DriverIRQHandler
+                0x20207b74                LPUART5_DriverIRQHandler
+                0x20207b98                LPUART6_DriverIRQHandler
+                0x20207bbc                LPUART7_DriverIRQHandler
+                0x20207be0                LPUART8_DriverIRQHandler
+ .text          0x20207c04     0x17e4 ./sdram_debug/fsl_semc.o
+                0x20207efc                SEMC_GetDefaultConfig
+                0x20207fa0                SEMC_Init
+                0x20208074                SEMC_Deinit
+                0x202080c0                SEMC_ConfigureSDRAM
+                0x20208414                SEMC_ConfigureNAND
+                0x202086f0                SEMC_ConfigureNOR
+                0x20208a30                SEMC_ConfigureSRAM
+                0x20208d34                SEMC_ConfigureDBI
+                0x20208ee0                SEMC_SendIPCommand
+                0x20209048                SEMC_IPCommandNandWrite
+                0x20209134                SEMC_IPCommandNandRead
+                0x20209214                SEMC_IPCommandNorRead
+                0x202092f8                SEMC_IPCommandNorWrite
+ .text          0x202093e8      0x57c ./sdram_debug/fsl_debug_console.o
+                0x202093e8                DbgConsole_ReadOneCharacter
+                0x2020941c                DbgConsole_SendData
+                0x2020948c                DbgConsole_SendDataReliable
+                0x202094fc                DbgConsole_ReadLine
+                0x202095ac                DbgConsole_ReadCharacter
+                0x2020965c                DbgConsole_Init
+                0x20209778                DbgConsole_Deinit
+                0x202097ac                DbgConsole_Flush
+                0x202097bc                DbgConsole_Printf
+                0x20209830                DbgConsole_Putchar
+                0x2020984c                DbgConsole_Scanf
+                0x20209892                DbgConsole_Getchar
+                0x202098ae                _write
+                0x202098ec                _read
+ .text          0x20209964       0x28 ./sdram_debug/fsl_assert.o
+                0x20209964                __assert_func
+ .text          0x2020998c      0xa68 ./sdram_debug/fsl_str.o
+                0x20209b00                StrFormatPrintf
+                0x20209e0c                StrFormatScanf
+ .text          0x2020a3f4        0x0 ./sdram_debug/fsl_flexspi_nor_boot.o
+ .text          0x2020a3f4      0x3b0 ./sdram_debug/system_mimxrt1052.o
+                0x2020a3f4                SystemInit
+                0x2020a594                SystemCoreClockUpdate
+                0x2020a794                SystemInitHook
+ .text          0x2020a7a4       0x30 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x2020a7a4                __aeabi_uldivmod
+ .text          0x2020a7d4      0x2d0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x2020a7d4                __udivmoddi4
+ .text          0x2020aaa4        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x2020aaa4                __aeabi_idiv0
+                0x2020aaa4                __aeabi_ldiv0
+ .text          0x2020aaa8        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .text          0x2020aaa8        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .text          0x2020aaa8        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .text          0x2020aaa8        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-malloc.o)
+ .text          0x2020aaa8        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+ .text          0x2020aaa8        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memcmp.o)
+ .text          0x2020aaa8        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .text          0x2020aaa8        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+ .text          0x2020aaa8        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+ *fill*         0x2020aaa8       0x18 
+ .text          0x2020aac0       0xdc c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-strlen.o)
+                0x2020aac0                strlen
+ .text          0x2020ab9c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .text          0x2020ab9c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .text          0x2020ab9c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .text          0x2020ab9c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+ .text          0x2020ab9c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .text          0x2020ab9c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+ .text          0x2020ab9c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .text          0x2020ab9c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .text          0x2020ab9c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .text          0x2020ab9c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x2020ab9c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.text*)
+ .text.exit     0x2020ab9c       0x20 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+                0x2020ab9c                exit
+ .text.__libc_init_array
+                0x2020abbc       0x48 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+                0x2020abbc                __libc_init_array
+ .text.malloc   0x2020ac04       0x10 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-malloc.o)
+                0x2020ac04                malloc
+ .text.free     0x2020ac14       0x10 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-malloc.o)
+                0x2020ac14                free
+ .text._malloc_r
+                0x2020ac24      0x570 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                0x2020ac24                _malloc_r
+ .text.memcmp   0x2020b194       0x64 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memcmp.o)
+                0x2020b194                memcmp
+ .text.memset   0x2020b1f8       0xa0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+                0x2020b1f8                memset
+ .text.__malloc_lock
+                0x2020b298        0xc c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+                0x2020b298                __malloc_lock
+ .text.__malloc_unlock
+                0x2020b2a4        0xc c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+                0x2020b2a4                __malloc_unlock
+ .text._sbrk_r  0x2020b2b0       0x24 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+                0x2020b2b0                _sbrk_r
+ .text.startup.register_fini
+                0x2020b2d4       0x14 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x2020b2e8       0xb0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+                0x2020b2e8                __call_exitprocs
+ .text.atexit   0x2020b398        0xc c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+                0x2020b398                atexit
+ .text.__libc_fini_array
+                0x2020b3a4       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+                0x2020b3a4                __libc_fini_array
+ .text._malloc_trim_r
+                0x2020b3d8       0xa0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+                0x2020b3d8                _malloc_trim_r
+ .text._free_r  0x2020b478      0x1ec c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+                0x2020b478                _free_r
+ .text.__retarget_lock_init
+                0x2020b664        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x2020b664                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x2020b668        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x2020b668                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x2020b66c        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x2020b66c                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x2020b670        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x2020b670                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x2020b674        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x2020b674                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x2020b678        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x2020b678                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x2020b67c        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x2020b67c                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x2020b680        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x2020b680                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x2020b684        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x2020b684                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x2020b688        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x2020b688                __retarget_lock_release_recursive
+ .text.cleanup_glue
+                0x2020b68c       0x1c c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+                0x2020b68c                cleanup_glue
+ .text._reclaim_reent
+                0x2020b6a8       0x88 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+                0x2020b6a8                _reclaim_reent
+ .text.__register_exitproc
+                0x2020b730       0x88 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+                0x2020b730                __register_exitproc
+ .text._sbrk    0x2020b7b8       0x1c c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+                0x2020b7b8                _sbrk
+ .text._exit    0x2020b7d4        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                0x2020b7d4                _exit
+ *(.rodata)
+ .rodata        0x2020b7d8      0x1b1 ./sdram_debug/cache.o
+ *fill*         0x2020b989        0x3 
+ .rodata        0x2020b98c       0xd5 ./sdram_debug/clock_config.o
+                0x2020ba10                armPllConfig_BOARD_BootClockRUN
+                0x2020ba18                sysPllConfig_BOARD_BootClockRUN
+                0x2020ba2c                usb1PllConfig_BOARD_BootClockRUN
+ *fill*         0x2020ba61        0x3 
+ .rodata        0x2020ba64       0x76 ./sdram_debug/pin_mux.o
+ *fill*         0x2020bada        0x2 
+ .rodata        0x2020badc      0x1c3 ./sdram_debug/serial_manager.o
+ *fill*         0x2020bc9f        0x1 
+ .rodata        0x2020bca0       0xe8 ./sdram_debug/serial_port_uart.o
+ .rodata        0x2020bd88      0x169 ./sdram_debug/lpuart_adapter.o
+ *fill*         0x2020bef1        0x3 
+ .rodata        0x2020bef4       0xf3 ./sdram_debug/fsl_clock.o
+ *fill*         0x2020bfe7        0x1 
+ .rodata        0x2020bfe8      0x112 ./sdram_debug/fsl_dmamux.o
+ *fill*         0x2020c0fa        0x2 
+ .rodata        0x2020c0fc      0x667 ./sdram_debug/fsl_edma.o
+ *fill*         0x2020c763        0x1 
+ .rodata        0x2020c764      0x146 ./sdram_debug/fsl_gpio.o
+ *fill*         0x2020c8aa        0x2 
+ .rodata        0x2020c8ac      0x4b5 ./sdram_debug/fsl_lpuart.o
+ *fill*         0x2020cd61        0x3 
+ .rodata        0x2020cd64      0x28f ./sdram_debug/fsl_semc.o
+ *fill*         0x2020cff3        0x1 
+ .rodata        0x2020cff4      0x130 ./sdram_debug/fsl_debug_console.o
+ .rodata        0x2020d124       0x3e ./sdram_debug/fsl_assert.o
+ *(.rodata*)
+ *fill*         0x2020d162        0x2 
+ .rodata._global_impure_ptr
+                0x2020d164        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+                0x2020d164                _global_impure_ptr
+ *(.glue_7)
+ .glue_7        0x2020d168        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x2020d168        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x2020d168        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .eh_frame      0x2020d168        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtend.o
+ *(.init)
+ .init          0x2020d16c        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x2020d16c                _init
+ .init          0x2020d170        0x8 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x2020d178        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x2020d178                _fini
+ .fini          0x2020d17c        0x8 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x2020d184                . = ALIGN (0x4)
+
+.vfp11_veneer   0x2020d184        0x0
+ .vfp11_veneer  0x2020d184        0x0 linker stubs
+
+.v4_bx          0x2020d184        0x0
+ .v4_bx         0x2020d184        0x0 linker stubs
+
+.iplt           0x2020d184        0x0
+ .iplt          0x2020d184        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ARM.extab      0x2020d184        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x2020d184        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x2020d184        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+
+.ARM            0x2020d184        0x8
+                0x2020d184                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x2020d184        0x8 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x2020d18c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                                  0x8 (size before relaxing)
+                0x2020d18c                __exidx_end = .
+
+.rel.dyn        0x2020d18c        0x0
+ .rel.iplt      0x2020d18c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ctors          0x2020d18c        0x0
+                0x2020d18c                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x2020d18c                __CTOR_END__ = .
+
+.dtors          0x2020d18c        0x0
+                0x2020d18c                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x2020d18c                __DTOR_END__ = .
+
+.preinit_array  0x2020d18c        0x0
+                0x2020d18c                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x2020d18c                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x2020d18c        0x8
+                0x2020d18c                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x2020d18c        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x2020d190        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x2020d194                PROVIDE (__init_array_end = .)
+
+.fini_array     0x2020d194        0x4
+                0x2020d194                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x2020d194        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x2020d198                PROVIDE (__fini_array_end = .)
+                0x2020d198                __etext = .
+                0x2020d198                __DATA_ROM = .
+
+.data           0x20210000      0x84c load address 0x2020d198
+                0x20210000                . = ALIGN (0x4)
+                0x20210000                __DATA_RAM = .
+                0x20210000                __data_start__ = .
+ *(m_usb_dma_init_data)
+ *(.data)
+ .data          0x20210000        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x20210000        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x20210000                __dso_handle
+ .data          0x20210004        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x20210004        0x0 ./sdram_debug/cache.o
+ .data          0x20210004        0x0 ./sdram_debug/startup_mimxrt1052.o
+ .data          0x20210004        0x0 ./sdram_debug/board.o
+ .data          0x20210004        0x0 ./sdram_debug/clock_config.o
+ .data          0x20210004        0x0 ./sdram_debug/peripherals.o
+ .data          0x20210004        0x0 ./sdram_debug/pin_mux.o
+ .data          0x20210004        0x0 ./sdram_debug/evkbimxrt1050_flexspi_nor_config.o
+ .data          0x20210004        0x0 ./sdram_debug/evkbimxrt1050_sdram_ini_dcd.o
+ .data          0x20210004        0x0 ./sdram_debug/generic_list.o
+ .data          0x20210004        0x0 ./sdram_debug/serial_manager.o
+ .data          0x20210004        0x0 ./sdram_debug/serial_port_uart.o
+ .data          0x20210004        0x0 ./sdram_debug/lpuart_adapter.o
+ .data          0x20210004        0x0 ./sdram_debug/fsl_cache.o
+ .data          0x20210004        0x0 ./sdram_debug/fsl_clock.o
+ .data          0x20210004        0x0 ./sdram_debug/fsl_common.o
+ .data          0x20210004        0x0 ./sdram_debug/fsl_dmamux.o
+ .data          0x20210004        0x0 ./sdram_debug/fsl_edma.o
+ .data          0x20210004        0x0 ./sdram_debug/fsl_gpio.o
+ .data          0x20210004        0x0 ./sdram_debug/fsl_lpuart.o
+ .data          0x20210004        0x0 ./sdram_debug/fsl_semc.o
+ .data          0x20210004        0x0 ./sdram_debug/fsl_debug_console.o
+ .data          0x20210004        0x0 ./sdram_debug/fsl_assert.o
+ .data          0x20210004        0x0 ./sdram_debug/fsl_str.o
+ .data          0x20210004        0x0 ./sdram_debug/fsl_flexspi_nor_boot.o
+ .data          0x20210004        0x4 ./sdram_debug/system_mimxrt1052.o
+                0x20210004                SystemCoreClock
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-malloc.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memcmp.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-strlen.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x20210008        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.data*)
+ .data._impure_ptr
+                0x20210008        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+                0x20210008                _impure_ptr
+ *fill*         0x2021000c        0x4 
+ .data.impure_data
+                0x20210010      0x428 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .data.__malloc_av_
+                0x20210438      0x408 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                0x20210438                __malloc_av_
+ .data.__malloc_sbrk_base
+                0x20210840        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                0x20210840                __malloc_sbrk_base
+ .data.__malloc_trim_threshold
+                0x20210844        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                0x20210844                __malloc_trim_threshold
+ .data.__atexit_recursive_mutex
+                0x20210848        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+                0x20210848                __atexit_recursive_mutex
+ *(.jcr*)
+                0x2021084c                . = ALIGN (0x4)
+                0x2021084c                __data_end__ = .
+                0x2020d9e4                __NDATA_ROM = (__DATA_ROM + (__data_end__ - __data_start__))
+
+.igot.plt       0x2021084c        0x0 load address 0x2020d9e4
+ .igot.plt      0x2021084c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ncache.init    0x20220000        0x0 load address 0x2020d9e4
+                0x20220000                __noncachedata_start__ = .
+ *(NonCacheable.init)
+                0x20220000                . = ALIGN (0x4)
+                0x20220000                __noncachedata_init_end__ = .
+                0x20220000                . = __noncachedata_init_end__
+
+.ncache         0x20220000      0x140
+ *(NonCacheable)
+ NonCacheable   0x20220000      0x140 ./sdram_debug/cache.o
+                0x20220000                g_data
+                0x20220140                . = ALIGN (0x4)
+                0x20220140                __noncachedata_end__ = .
+                0x2020d9e4                __DATA_END = (__NDATA_ROM + (__noncachedata_init_end__ - __noncachedata_start__))
+                0x20210000                text_end = (ORIGIN (m_text) + LENGTH (m_text))
+                0x00000001                ASSERT ((__DATA_END <= text_end), region m_text overflowed with text and data)
+
+.bss            0x2021084c      0x184 load address 0x2020d9e4
+                0x2021084c                . = ALIGN (0x4)
+                0x2021084c                __START_BSS = .
+                0x2021084c                __bss_start__ = .
+ *(m_usb_dma_noninit_data)
+ *(.bss)
+ .bss           0x2021084c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x2021084c       0x1c c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss           0x20210868        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x20210868        0x5 ./sdram_debug/cache.o
+                0x20210868                g_count
+                0x2021086c                g_Transfer_Done
+ .bss           0x2021086d        0x0 ./sdram_debug/startup_mimxrt1052.o
+ .bss           0x2021086d        0x0 ./sdram_debug/board.o
+ .bss           0x2021086d        0x0 ./sdram_debug/clock_config.o
+ .bss           0x2021086d        0x0 ./sdram_debug/peripherals.o
+ .bss           0x2021086d        0x0 ./sdram_debug/pin_mux.o
+ .bss           0x2021086d        0x0 ./sdram_debug/evkbimxrt1050_flexspi_nor_config.o
+ .bss           0x2021086d        0x0 ./sdram_debug/evkbimxrt1050_sdram_ini_dcd.o
+ .bss           0x2021086d        0x0 ./sdram_debug/generic_list.o
+ .bss           0x2021086d        0x0 ./sdram_debug/serial_manager.o
+ .bss           0x2021086d        0x0 ./sdram_debug/serial_port_uart.o
+ .bss           0x2021086d        0x0 ./sdram_debug/lpuart_adapter.o
+ .bss           0x2021086d        0x0 ./sdram_debug/fsl_cache.o
+ .bss           0x2021086d        0x0 ./sdram_debug/fsl_clock.o
+ .bss           0x2021086d        0x0 ./sdram_debug/fsl_common.o
+ .bss           0x2021086d        0x0 ./sdram_debug/fsl_dmamux.o
+ *fill*         0x2021086d        0x3 
+ .bss           0x20210870       0x81 ./sdram_debug/fsl_edma.o
+ .bss           0x202108f1        0x0 ./sdram_debug/fsl_gpio.o
+ *fill*         0x202108f1        0x3 
+ .bss           0x202108f4       0x28 ./sdram_debug/fsl_lpuart.o
+ .bss           0x2021091c        0x0 ./sdram_debug/fsl_semc.o
+ .bss           0x2021091c       0x20 ./sdram_debug/fsl_debug_console.o
+ .bss           0x2021093c        0x0 ./sdram_debug/fsl_assert.o
+ .bss           0x2021093c        0x0 ./sdram_debug/fsl_str.o
+ .bss           0x2021093c        0x0 ./sdram_debug/fsl_flexspi_nor_boot.o
+ .bss           0x2021093c        0x0 ./sdram_debug/system_mimxrt1052.o
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-malloc.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memcmp.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-strlen.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x2021093c        0x0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.bss*)
+ .bss.__malloc_current_mallinfo
+                0x2021093c       0x28 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                0x2021093c                __malloc_current_mallinfo
+ .bss.__malloc_max_sbrked_mem
+                0x20210964        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                0x20210964                __malloc_max_sbrked_mem
+ .bss.__malloc_max_total_mem
+                0x20210968        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                0x20210968                __malloc_max_total_mem
+ .bss.__malloc_top_pad
+                0x2021096c        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                0x2021096c                __malloc_top_pad
+ .bss.heap_end.5501
+                0x20210970        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x20210974       0x18 ./sdram_debug/cache.o
+                0x20210974                g_DMA_Handle
+ COMMON         0x2021098c        0x8 ./sdram_debug/fsl_clock.o
+                0x2021098c                g_xtalFreq
+                0x20210990                g_rtcXtalFreq
+ COMMON         0x20210994        0x4 ./sdram_debug/fsl_debug_console.o
+                0x20210994                g_serialHandle
+ COMMON         0x20210998       0x10 ./sdram_debug/fsl_flexspi_nor_boot.o
+                0x20210998                boot_data
+ COMMON         0x202109a8       0x21 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+                0x202109a8                __lock___atexit_recursive_mutex
+                0x202109ac                __lock___arc4random_mutex
+                0x202109b0                __lock___env_recursive_mutex
+                0x202109b4                __lock___sinit_recursive_mutex
+                0x202109b8                __lock___malloc_recursive_mutex
+                0x202109bc                __lock___at_quick_exit_mutex
+                0x202109c0                __lock___dd_hash_mutex
+                0x202109c4                __lock___tz_mutex
+                0x202109c8                __lock___sfp_recursive_mutex
+ *fill*         0x202109c9        0x3 
+ COMMON         0x202109cc        0x4 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+                0x202109cc                errno
+                0x202109d0                . = ALIGN (0x4)
+                0x202109d0                __bss_end__ = .
+                0x202109d0                __END_BSS = .
+
+.heap           0x202109d0      0x400 load address 0x2020db68
+                0x202109d0                . = ALIGN (0x8)
+                0x202109d0                __end__ = .
+                0x202109d0                PROVIDE (end = .)
+                0x202109d0                __HeapBase = .
+                0x20210dd0                . = (. + HEAP_SIZE)
+ *fill*         0x202109d0      0x400 
+                0x20210dd0                __HeapLimit = .
+                0x20210dd0                __heap_limit = .
+
+.stack          0x20210dd0      0x400 load address 0x2020df68
+                0x20210dd0                . = ALIGN (0x8)
+                0x202111d0                . = (. + STACK_SIZE)
+ *fill*         0x20210dd0      0x400 
+                0x20220000                __StackTop = (ORIGIN (m_data) + LENGTH (m_data))
+                0x2021fc00                __StackLimit = (__StackTop - STACK_SIZE)
+                0x20220000                PROVIDE (__stack = __StackTop)
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x0000001e       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000052       0x1c c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x0000006e       0x34 ./sdram_debug/cache.o
+ .ARM.attributes
+                0x000000a2       0x1f ./sdram_debug/startup_mimxrt1052.o
+ .ARM.attributes
+                0x000000c1       0x34 ./sdram_debug/board.o
+ .ARM.attributes
+                0x000000f5       0x34 ./sdram_debug/clock_config.o
+ .ARM.attributes
+                0x00000129       0x34 ./sdram_debug/peripherals.o
+ .ARM.attributes
+                0x0000015d       0x34 ./sdram_debug/pin_mux.o
+ .ARM.attributes
+                0x00000191       0x39 ./sdram_debug/evkbimxrt1050_flexspi_nor_config.o
+ .ARM.attributes
+                0x000001ca       0x39 ./sdram_debug/evkbimxrt1050_sdram_ini_dcd.o
+ .ARM.attributes
+                0x00000203       0x34 ./sdram_debug/generic_list.o
+ .ARM.attributes
+                0x00000237       0x34 ./sdram_debug/serial_manager.o
+ .ARM.attributes
+                0x0000026b       0x34 ./sdram_debug/serial_port_uart.o
+ .ARM.attributes
+                0x0000029f       0x34 ./sdram_debug/lpuart_adapter.o
+ .ARM.attributes
+                0x000002d3       0x34 ./sdram_debug/fsl_cache.o
+ .ARM.attributes
+                0x00000307       0x34 ./sdram_debug/fsl_clock.o
+ .ARM.attributes
+                0x0000033b       0x34 ./sdram_debug/fsl_common.o
+ .ARM.attributes
+                0x0000036f       0x34 ./sdram_debug/fsl_dmamux.o
+ .ARM.attributes
+                0x000003a3       0x34 ./sdram_debug/fsl_edma.o
+ .ARM.attributes
+                0x000003d7       0x34 ./sdram_debug/fsl_gpio.o
+ .ARM.attributes
+                0x0000040b       0x34 ./sdram_debug/fsl_lpuart.o
+ .ARM.attributes
+                0x0000043f       0x34 ./sdram_debug/fsl_semc.o
+ .ARM.attributes
+                0x00000473       0x34 ./sdram_debug/fsl_debug_console.o
+ .ARM.attributes
+                0x000004a7       0x34 ./sdram_debug/fsl_assert.o
+ .ARM.attributes
+                0x000004db       0x34 ./sdram_debug/fsl_str.o
+ .ARM.attributes
+                0x0000050f       0x39 ./sdram_debug/fsl_flexspi_nor_boot.o
+ .ARM.attributes
+                0x00000548       0x34 ./sdram_debug/system_mimxrt1052.o
+ .ARM.attributes
+                0x0000057c       0x1e c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000059a       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x000005ce       0x1e c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000005ec       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000620       0x32 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000652       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000686       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x000006ba       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000006ee       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x00000722       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000756       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000078a       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000007be       0x1c c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000007da       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000080e       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000842       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000876       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000008aa       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000008de       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000912       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000946       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x0000097a       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000009ae       0x32 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x000009e0       0x1e c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
+OUTPUT(./sdram_debug/cache.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x22609
+ .debug_info    0x00000000     0x271b ./sdram_debug/cache.o
+ .debug_info    0x0000271b       0x26 ./sdram_debug/startup_mimxrt1052.o
+ .debug_info    0x00002741     0x1c7e ./sdram_debug/board.o
+ .debug_info    0x000043bf     0x237c ./sdram_debug/clock_config.o
+ .debug_info    0x0000673b       0x3d ./sdram_debug/peripherals.o
+ .debug_info    0x00006778     0x1221 ./sdram_debug/pin_mux.o
+ .debug_info    0x00007999      0xa75 ./sdram_debug/evkbimxrt1050_flexspi_nor_config.o
+ .debug_info    0x0000840e       0x64 ./sdram_debug/evkbimxrt1050_sdram_ini_dcd.o
+ .debug_info    0x00008472      0xf97 ./sdram_debug/generic_list.o
+ .debug_info    0x00009409     0x128d ./sdram_debug/serial_manager.o
+ .debug_info    0x0000a696      0xf39 ./sdram_debug/serial_port_uart.o
+ .debug_info    0x0000b5cf     0x145b ./sdram_debug/lpuart_adapter.o
+ .debug_info    0x0000ca2a     0x137a ./sdram_debug/fsl_cache.o
+ .debug_info    0x0000dda4     0x2d5e ./sdram_debug/fsl_clock.o
+ .debug_info    0x00010b02      0xb8f ./sdram_debug/fsl_common.o
+ .debug_info    0x00011691     0x14c7 ./sdram_debug/fsl_dmamux.o
+ .debug_info    0x00012b58     0x3661 ./sdram_debug/fsl_edma.o
+ .debug_info    0x000161b9     0x1727 ./sdram_debug/fsl_gpio.o
+ .debug_info    0x000178e0     0x2e7b ./sdram_debug/fsl_lpuart.o
+ .debug_info    0x0001a75b     0x319c ./sdram_debug/fsl_semc.o
+ .debug_info    0x0001d8f7     0x1559 ./sdram_debug/fsl_debug_console.o
+ .debug_info    0x0001ee50      0xaec ./sdram_debug/fsl_assert.o
+ .debug_info    0x0001f93c      0xf3b ./sdram_debug/fsl_str.o
+ .debug_info    0x00020877      0xee7 ./sdram_debug/fsl_flexspi_nor_boot.o
+ .debug_info    0x0002175e      0xeab ./sdram_debug/system_mimxrt1052.o
+
+.debug_abbrev   0x00000000     0x3ea2
+ .debug_abbrev  0x00000000      0x3aa ./sdram_debug/cache.o
+ .debug_abbrev  0x000003aa       0x14 ./sdram_debug/startup_mimxrt1052.o
+ .debug_abbrev  0x000003be      0x3a0 ./sdram_debug/board.o
+ .debug_abbrev  0x0000075e      0x2d7 ./sdram_debug/clock_config.o
+ .debug_abbrev  0x00000a35       0x2e ./sdram_debug/peripherals.o
+ .debug_abbrev  0x00000a63      0x269 ./sdram_debug/pin_mux.o
+ .debug_abbrev  0x00000ccc      0x196 ./sdram_debug/evkbimxrt1050_flexspi_nor_config.o
+ .debug_abbrev  0x00000e62       0x26 ./sdram_debug/evkbimxrt1050_sdram_ini_dcd.o
+ .debug_abbrev  0x00000e88      0x3a3 ./sdram_debug/generic_list.o
+ .debug_abbrev  0x0000122b      0x24d ./sdram_debug/serial_manager.o
+ .debug_abbrev  0x00001478      0x24e ./sdram_debug/serial_port_uart.o
+ .debug_abbrev  0x000016c6      0x268 ./sdram_debug/lpuart_adapter.o
+ .debug_abbrev  0x0000192e      0x301 ./sdram_debug/fsl_cache.o
+ .debug_abbrev  0x00001c2f      0x451 ./sdram_debug/fsl_clock.o
+ .debug_abbrev  0x00002080      0x205 ./sdram_debug/fsl_common.o
+ .debug_abbrev  0x00002285      0x2a4 ./sdram_debug/fsl_dmamux.o
+ .debug_abbrev  0x00002529      0x45b ./sdram_debug/fsl_edma.o
+ .debug_abbrev  0x00002984      0x2fc ./sdram_debug/fsl_gpio.o
+ .debug_abbrev  0x00002c80      0x3ce ./sdram_debug/fsl_lpuart.o
+ .debug_abbrev  0x0000304e      0x375 ./sdram_debug/fsl_semc.o
+ .debug_abbrev  0x000033c3      0x2df ./sdram_debug/fsl_debug_console.o
+ .debug_abbrev  0x000036a2      0x1c8 ./sdram_debug/fsl_assert.o
+ .debug_abbrev  0x0000386a      0x2bd ./sdram_debug/fsl_str.o
+ .debug_abbrev  0x00003b27      0x1dd ./sdram_debug/fsl_flexspi_nor_boot.o
+ .debug_abbrev  0x00003d04      0x19e ./sdram_debug/system_mimxrt1052.o
+
+.debug_loc      0x00000000     0x5951
+ .debug_loc     0x00000000      0x4ca ./sdram_debug/cache.o
+ .debug_loc     0x000004ca      0x388 ./sdram_debug/board.o
+ .debug_loc     0x00000852      0x3c0 ./sdram_debug/clock_config.o
+ .debug_loc     0x00000c12       0x2c ./sdram_debug/peripherals.o
+ .debug_loc     0x00000c3e      0x1c8 ./sdram_debug/pin_mux.o
+ .debug_loc     0x00000e06      0x528 ./sdram_debug/generic_list.o
+ .debug_loc     0x0000132e      0x460 ./sdram_debug/serial_manager.o
+ .debug_loc     0x0000178e      0x140 ./sdram_debug/serial_port_uart.o
+ .debug_loc     0x000018ce      0x19c ./sdram_debug/lpuart_adapter.o
+ .debug_loc     0x00001a6a      0x2b0 ./sdram_debug/fsl_cache.o
+ .debug_loc     0x00001d1a      0xd92 ./sdram_debug/fsl_clock.o
+ .debug_loc     0x00002aac       0xa0 ./sdram_debug/fsl_common.o
+ .debug_loc     0x00002b4c      0x1e0 ./sdram_debug/fsl_dmamux.o
+ .debug_loc     0x00002d2c      0xf9c ./sdram_debug/fsl_edma.o
+ .debug_loc     0x00003cc8      0x23c ./sdram_debug/fsl_gpio.o
+ .debug_loc     0x00003f04      0xc04 ./sdram_debug/fsl_lpuart.o
+ .debug_loc     0x00004b08      0x705 ./sdram_debug/fsl_semc.o
+ .debug_loc     0x0000520d      0x4cc ./sdram_debug/fsl_debug_console.o
+ .debug_loc     0x000056d9       0x38 ./sdram_debug/fsl_assert.o
+ .debug_loc     0x00005711      0x15c ./sdram_debug/fsl_str.o
+ .debug_loc     0x0000586d       0xe4 ./sdram_debug/system_mimxrt1052.o
+
+.debug_aranges  0x00000000      0x308
+ .debug_aranges
+                0x00000000       0x20 ./sdram_debug/cache.o
+ .debug_aranges
+                0x00000020       0x20 ./sdram_debug/startup_mimxrt1052.o
+ .debug_aranges
+                0x00000040       0x20 ./sdram_debug/board.o
+ .debug_aranges
+                0x00000060       0x20 ./sdram_debug/clock_config.o
+ .debug_aranges
+                0x00000080       0x20 ./sdram_debug/peripherals.o
+ .debug_aranges
+                0x000000a0       0x20 ./sdram_debug/pin_mux.o
+ .debug_aranges
+                0x000000c0       0x18 ./sdram_debug/evkbimxrt1050_flexspi_nor_config.o
+ .debug_aranges
+                0x000000d8       0x18 ./sdram_debug/evkbimxrt1050_sdram_ini_dcd.o
+ .debug_aranges
+                0x000000f0       0x20 ./sdram_debug/generic_list.o
+ .debug_aranges
+                0x00000110       0x20 ./sdram_debug/serial_manager.o
+ .debug_aranges
+                0x00000130       0x20 ./sdram_debug/serial_port_uart.o
+ .debug_aranges
+                0x00000150       0x20 ./sdram_debug/lpuart_adapter.o
+ .debug_aranges
+                0x00000170       0x20 ./sdram_debug/fsl_cache.o
+ .debug_aranges
+                0x00000190       0x20 ./sdram_debug/fsl_clock.o
+ .debug_aranges
+                0x000001b0       0x20 ./sdram_debug/fsl_common.o
+ .debug_aranges
+                0x000001d0       0x20 ./sdram_debug/fsl_dmamux.o
+ .debug_aranges
+                0x000001f0       0x20 ./sdram_debug/fsl_edma.o
+ .debug_aranges
+                0x00000210       0x20 ./sdram_debug/fsl_gpio.o
+ .debug_aranges
+                0x00000230       0x20 ./sdram_debug/fsl_lpuart.o
+ .debug_aranges
+                0x00000250       0x20 ./sdram_debug/fsl_semc.o
+ .debug_aranges
+                0x00000270       0x20 ./sdram_debug/fsl_debug_console.o
+ .debug_aranges
+                0x00000290       0x20 ./sdram_debug/fsl_assert.o
+ .debug_aranges
+                0x000002b0       0x20 ./sdram_debug/fsl_str.o
+ .debug_aranges
+                0x000002d0       0x18 ./sdram_debug/fsl_flexspi_nor_boot.o
+ .debug_aranges
+                0x000002e8       0x20 ./sdram_debug/system_mimxrt1052.o
+
+.debug_ranges   0x00000000       0x48
+ .debug_ranges  0x00000000       0x30 ./sdram_debug/cache.o
+ .debug_ranges  0x00000030       0x18 ./sdram_debug/board.o
+
+.debug_line     0x00000000     0x9a09
+ .debug_line    0x00000000      0xadf ./sdram_debug/cache.o
+ .debug_line    0x00000adf      0x175 ./sdram_debug/startup_mimxrt1052.o
+ .debug_line    0x00000c54      0x7a6 ./sdram_debug/board.o
+ .debug_line    0x000013fa      0x637 ./sdram_debug/clock_config.o
+ .debug_line    0x00001a31       0x67 ./sdram_debug/peripherals.o
+ .debug_line    0x00001a98      0x3b6 ./sdram_debug/pin_mux.o
+ .debug_line    0x00001e4e      0x2c7 ./sdram_debug/evkbimxrt1050_flexspi_nor_config.o
+ .debug_line    0x00002115       0x1d ./sdram_debug/evkbimxrt1050_sdram_ini_dcd.o
+ .debug_line    0x00002132      0x5ee ./sdram_debug/generic_list.o
+ .debug_line    0x00002720      0x562 ./sdram_debug/serial_manager.o
+ .debug_line    0x00002c82      0x497 ./sdram_debug/serial_port_uart.o
+ .debug_line    0x00003119      0x475 ./sdram_debug/lpuart_adapter.o
+ .debug_line    0x0000358e      0x45f ./sdram_debug/fsl_cache.o
+ .debug_line    0x000039ed      0xc58 ./sdram_debug/fsl_clock.o
+ .debug_line    0x00004645      0x342 ./sdram_debug/fsl_common.o
+ .debug_line    0x00004987      0x399 ./sdram_debug/fsl_dmamux.o
+ .debug_line    0x00004d20      0xf7a ./sdram_debug/fsl_edma.o
+ .debug_line    0x00005c9a      0x492 ./sdram_debug/fsl_gpio.o
+ .debug_line    0x0000612c      0xe9d ./sdram_debug/fsl_lpuart.o
+ .debug_line    0x00006fc9      0xde4 ./sdram_debug/fsl_semc.o
+ .debug_line    0x00007dad      0x6c5 ./sdram_debug/fsl_debug_console.o
+ .debug_line    0x00008472      0x42b ./sdram_debug/fsl_assert.o
+ .debug_line    0x0000889d      0x9b1 ./sdram_debug/fsl_str.o
+ .debug_line    0x0000924e      0x36d ./sdram_debug/fsl_flexspi_nor_boot.o
+ .debug_line    0x000095bb      0x44e ./sdram_debug/system_mimxrt1052.o
+
+.debug_str      0x00000000     0x9213
+ .debug_str     0x00000000     0x17ef ./sdram_debug/cache.o
+                               0x18de (size before relaxing)
+ .debug_str     0x000017ef       0x24 ./sdram_debug/startup_mimxrt1052.o
+                                 0x51 (size before relaxing)
+ .debug_str     0x00001813      0x78e ./sdram_debug/board.o
+                               0x1123 (size before relaxing)
+ .debug_str     0x00001fa1      0xd83 ./sdram_debug/clock_config.o
+                               0x22ca (size before relaxing)
+ .debug_str     0x00002d24       0x4a ./sdram_debug/peripherals.o
+                                0x132 (size before relaxing)
+ .debug_str     0x00002d6e       0x7e ./sdram_debug/pin_mux.o
+                                0xe35 (size before relaxing)
+ .debug_str     0x00002dec       0x6d ./sdram_debug/evkbimxrt1050_flexspi_nor_config.o
+                                0x632 (size before relaxing)
+ .debug_str     0x00002e59       0x68 ./sdram_debug/evkbimxrt1050_sdram_ini_dcd.o
+                                0x1d4 (size before relaxing)
+ .debug_str     0x00002ec1      0x243 ./sdram_debug/generic_list.o
+                                0x837 (size before relaxing)
+ .debug_str     0x00003104      0x4ac ./sdram_debug/serial_manager.o
+                                0xb23 (size before relaxing)
+ .debug_str     0x000035b0      0x48c ./sdram_debug/serial_port_uart.o
+                                0xbb7 (size before relaxing)
+ .debug_str     0x00003a3c      0x51e ./sdram_debug/lpuart_adapter.o
+                               0x15a1 (size before relaxing)
+ .debug_str     0x00003f5a      0x12a ./sdram_debug/fsl_cache.o
+                                0x908 (size before relaxing)
+ .debug_str     0x00004084      0xb9b ./sdram_debug/fsl_clock.o
+                               0x1fe8 (size before relaxing)
+ .debug_str     0x00004c1f       0xc7 ./sdram_debug/fsl_common.o
+                                0x6ba (size before relaxing)
+ .debug_str     0x00004ce6       0xa4 ./sdram_debug/fsl_dmamux.o
+                               0x15e7 (size before relaxing)
+ .debug_str     0x00004d8a     0x1548 ./sdram_debug/fsl_edma.o
+                               0x30ed (size before relaxing)
+ .debug_str     0x000062d2      0x25a ./sdram_debug/fsl_gpio.o
+                               0x178e (size before relaxing)
+ .debug_str     0x0000652c      0xc17 ./sdram_debug/fsl_lpuart.o
+                               0x305c (size before relaxing)
+ .debug_str     0x00007143     0x19e6 ./sdram_debug/fsl_semc.o
+                               0x3047 (size before relaxing)
+ .debug_str     0x00008b29      0x2b7 ./sdram_debug/fsl_debug_console.o
+                               0x14c5 (size before relaxing)
+ .debug_str     0x00008de0       0x77 ./sdram_debug/fsl_assert.o
+                                0x665 (size before relaxing)
+ .debug_str     0x00008e57      0x250 ./sdram_debug/fsl_str.o
+                                0x87e (size before relaxing)
+ .debug_str     0x000090a7       0xb8 ./sdram_debug/fsl_flexspi_nor_boot.o
+                                0xf6f (size before relaxing)
+ .debug_str     0x0000915f       0xb4 ./sdram_debug/system_mimxrt1052.o
+                                0x7c5 (size before relaxing)
+
+.comment        0x00000000       0x75
+ .comment       0x00000000       0x75 ./sdram_debug/cache.o
+                                 0x76 (size before relaxing)
+ .comment       0x00000075       0x76 ./sdram_debug/board.o
+ .comment       0x00000075       0x76 ./sdram_debug/clock_config.o
+ .comment       0x00000075       0x76 ./sdram_debug/peripherals.o
+ .comment       0x00000075       0x76 ./sdram_debug/pin_mux.o
+ .comment       0x00000075       0x76 ./sdram_debug/evkbimxrt1050_flexspi_nor_config.o
+ .comment       0x00000075       0x76 ./sdram_debug/evkbimxrt1050_sdram_ini_dcd.o
+ .comment       0x00000075       0x76 ./sdram_debug/generic_list.o
+ .comment       0x00000075       0x76 ./sdram_debug/serial_manager.o
+ .comment       0x00000075       0x76 ./sdram_debug/serial_port_uart.o
+ .comment       0x00000075       0x76 ./sdram_debug/lpuart_adapter.o
+ .comment       0x00000075       0x76 ./sdram_debug/fsl_cache.o
+ .comment       0x00000075       0x76 ./sdram_debug/fsl_clock.o
+ .comment       0x00000075       0x76 ./sdram_debug/fsl_common.o
+ .comment       0x00000075       0x76 ./sdram_debug/fsl_dmamux.o
+ .comment       0x00000075       0x76 ./sdram_debug/fsl_edma.o
+ .comment       0x00000075       0x76 ./sdram_debug/fsl_gpio.o
+ .comment       0x00000075       0x76 ./sdram_debug/fsl_lpuart.o
+ .comment       0x00000075       0x76 ./sdram_debug/fsl_semc.o
+ .comment       0x00000075       0x76 ./sdram_debug/fsl_debug_console.o
+ .comment       0x00000075       0x76 ./sdram_debug/fsl_assert.o
+ .comment       0x00000075       0x76 ./sdram_debug/fsl_str.o
+ .comment       0x00000075       0x76 ./sdram_debug/fsl_flexspi_nor_boot.o
+ .comment       0x00000075       0x76 ./sdram_debug/system_mimxrt1052.o
+
+.debug_frame    0x00000000     0x2f7c
+ .debug_frame   0x00000000      0x238 ./sdram_debug/cache.o
+ .debug_frame   0x00000238      0x1b0 ./sdram_debug/board.o
+ .debug_frame   0x000003e8      0x1c8 ./sdram_debug/clock_config.o
+ .debug_frame   0x000005b0       0x2c ./sdram_debug/peripherals.o
+ .debug_frame   0x000005dc       0xe8 ./sdram_debug/pin_mux.o
+ .debug_frame   0x000006c4      0x254 ./sdram_debug/generic_list.o
+ .debug_frame   0x00000918      0x208 ./sdram_debug/serial_manager.o
+ .debug_frame   0x00000b20       0xa0 ./sdram_debug/serial_port_uart.o
+ .debug_frame   0x00000bc0       0xc8 ./sdram_debug/lpuart_adapter.o
+ .debug_frame   0x00000c88      0x140 ./sdram_debug/fsl_cache.o
+ .debug_frame   0x00000dc8      0x64c ./sdram_debug/fsl_clock.o
+ .debug_frame   0x00001414       0x58 ./sdram_debug/fsl_common.o
+ .debug_frame   0x0000146c       0xe8 ./sdram_debug/fsl_dmamux.o
+ .debug_frame   0x00001554      0x7a8 ./sdram_debug/fsl_edma.o
+ .debug_frame   0x00001cfc      0x110 ./sdram_debug/fsl_gpio.o
+ .debug_frame   0x00001e0c      0x5bc ./sdram_debug/fsl_lpuart.o
+ .debug_frame   0x000023c8      0x358 ./sdram_debug/fsl_semc.o
+ .debug_frame   0x00002720      0x250 ./sdram_debug/fsl_debug_console.o
+ .debug_frame   0x00002970       0x30 ./sdram_debug/fsl_assert.o
+ .debug_frame   0x000029a0       0xb4 ./sdram_debug/fsl_str.o
+ .debug_frame   0x00002a54       0x7c ./sdram_debug/system_mimxrt1052.o
+ .debug_frame   0x00002ad0       0x2c c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00002afc       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00002b30       0x28 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .debug_frame   0x00002b58       0x2c c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .debug_frame   0x00002b84       0x30 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-malloc.o)
+ .debug_frame   0x00002bb4       0x4c c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00002c00       0x38 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00002c38       0x38 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .debug_frame   0x00002c70       0x30 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+ .debug_frame   0x00002ca0       0x2c c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00002ccc       0x5c c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00002d28       0x20 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00002d48       0x34 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .debug_frame   0x00002d7c       0x80 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+ .debug_frame   0x00002dfc       0xb0 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lock.o)
+ .debug_frame   0x00002eac       0x60 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+ .debug_frame   0x00002f0c       0x30 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00002f3c       0x20 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .debug_frame   0x00002f5c       0x20 c:/program files (x86)/gnu tools arm embedded/8 2018-q4-major/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
